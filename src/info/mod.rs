@@ -11,3 +11,4 @@
 //! In this protocol, information is transmitted by binary.
 //!
 pub mod http1;
+pub mod http2;
